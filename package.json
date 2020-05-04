@@ -1,0 +1,19 @@
+{
+  "name": "papich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.7",
+    "pnpm": "^4.9.3",
+    "ws": "^7.2.1",
+    "ytdl-core": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ares",
+  "license": "ISC"
+}
